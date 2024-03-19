@@ -6,6 +6,7 @@ Player controls:
   RMB and LMB - Shoot
   Left Shift - Rise drone
   Left Control - Lower drone
+  Map size is fixed by design with invisible walls
 
 Pickups:
   Yellow boxes - Health pickup (+3)
