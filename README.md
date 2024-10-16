@@ -1,5 +1,3 @@
-# TZ_RedViburnumStudio
-
 Player controls:
   WASD - Move;
   Mouse movement - Look around;
